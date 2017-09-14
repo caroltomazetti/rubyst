@@ -1,7 +1,7 @@
-#mostra o texto na tela
+puts "Carol".class
 
-puts "Hello world!"
+puts 3.class
 
-text = gets
+puts 3.15.class
 
-puts text
+puts true.class
